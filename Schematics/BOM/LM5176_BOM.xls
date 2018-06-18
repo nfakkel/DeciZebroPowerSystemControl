@@ -1,0 +1,38 @@
+Part	Manufacturer	Part Number	Quantity	Price	Attribute 1 Name	Attribute 1 Value	Attribute 2 Name	Attribute 2 Value	Attribute 3 Name	Attribute 3 Value	Footprint
+Cboot1	Kemet	C0603C104Z3VACTU	1	0.01	Cap	100nF	ESR	1mOhm	Total Derated Cap	1.0E-7F	603
+Cboot2	Kemet	C0603C104Z3VACTU	1	0.01	Cap	100nF	ESR	1mOhm	Total Derated Cap	1.0E-7F	603
+Cbulk	Nichicon	UUD1E680MCL1GS	1	0.12	Cap	68uF	ESR	0.44Ohm	Total Derated Cap	6.8E-5F	SM_RADIAL_6.3AMM
+Ccomp	TDK	C2012C0G1H153J085AA	1	0.07	Cap	15nF	ESR	0Ohm	Total Derated Cap	1.5E-8F	805
+Ccomp2	Samsung Electro-Mechanics	CL21C910JBANNNC	1	0.01	Cap	91pF	ESR	0Ohm	Total Derated Cap	9.1E-11F	805
+Ccs	AVX	06035A470JAT2A	1	0.01	Cap	47pF	ESR	0.174Ohm	Total Derated Cap	4.7E-11F	603
+Cf	TDK	C1608X5R1H104K080AA	1	0.01	Cap	100nF	ESR	0.03Ohm	Total Derated Cap	1.0E-7F	603
+Cin	MuRata	GRM32DR61E106KA12L	3	0.15	Cap	10uF	ESR	2.237mOhm	Total Derated Cap	1.7E-5F	1210_280
+Cout	Panasonic	20SVP150M	1	0.76	Cap	150uF	ESR	0.02Ohm	Total Derated Cap	1.5E-4F	SM_RADIAL_10AMM
+Coutx	TDK	C2012X5R1V226M125AC	1	0.38	Cap	22uF	ESR	2.05mOhm	Total Derated Cap	1.2E-5F	805
+Coutx2	TDK	C2012X5R1V226M125AC	1	0.38	Cap	22uF	ESR	2.05mOhm	Total Derated Cap	1.2E-5F	805
+Coutx3	TDK	C2012X5R1V226M125AC	1	0.38	Cap	22uF	ESR	2.05mOhm	Total Derated Cap	1.2E-5F	805
+Cslope	Samsung Electro-Mechanics	CL10C111JB8NNNC	1	0.01	Cap	110pF	ESR	0Ohm	Total Derated Cap	1.1E-10F	603
+Css	Kemet	C0603C153J3GACTU	1	0.09	Cap	15nF	ESR	0Ohm	Total Derated Cap	1.5E-8F	603
+Cvcc	MuRata	GRM188R61C105KA93D	1	0.02	Cap	1uF	ESR	0.01Ohm	Total Derated Cap	1.0E-6F	603
+Dboot1	Nexperia	"PMEG6010CEH,115"	1	0.0422	VFatIo	0.57V	Io	1A	VRRM	60V	SOD-123F
+Dboot2	Nexperia	"PMEG6010CEH,115"	1	0.0422	VFatIo	0.57V	Io	1A	VRRM	60V	SOD-123F
+Df	Fairchild Semiconductor	SS14FL	1	0.06	VFatIo	0.55V	Io	1A	VRRM	40V	SOD-123F
+L1	Coilcraft	XAL7070-222MEB	1	1.19	L	2.2uH	DCR	5.7mOhm	IDC	17.8A	XAL7070
+M1	Texas Instruments	CSD17310Q5A	1	0.31	VdsMax	30V	IdsMax	100A	Rdson	5.9mOhm	TRANS_NexFET_Q5A
+M2	Texas Instruments	CSD18514Q5A	1	0.27	VdsMax	40V	IdsMax	50A	Rdson	7.9mOhm	TRANS_NexFET_Q5A
+M3	Texas Instruments	CSD16321Q5	1	0.61	VdsMax	25V	IdsMax	100A	Rdson	2.6mOhm	TRANS_NexFET_Q5
+M4	Texas Instruments	CSD18511Q5A	1	0.44	VdsMax	40V	IdsMax	100A	Rdson	3.5mOhm	TRANS_NexFET_Q5A
+Rcomp	Vishay-Dale	CRCW040210K2FKED	1	0.01	Resistance	10.2kOhm	Tolerance	1%	Power	0.063W	402
+Rcsg	Vishay-Dale	CRCW0603100RFKEA	1	0.01	Resistance	100Ohm	Tolerance	1%	Power	0.1W	603
+Rcsp	Vishay-Dale	CRCW0603100RFKEA	1	0.01	Resistance	100Ohm	Tolerance	1%	Power	0.1W	603
+Rf	Vishay-Dale	CRCW060310R0FKEA	1	0.01	Resistance	10Ohm	Tolerance	1%	Power	0.1W	603
+Rfbb	Yageo America	RC0603FR-0720KL	1	0.01	Resistance	20kOhm	Tolerance	1%	Power	0.1W	603
+Rfbt	Yageo America	RC0603FR-07383KL	1	0.01	Resistance	383kOhm	Tolerance	1%	Power	0.1W	603
+Rpg	Vishay-Dale	CRCW060310K0FKEA	1	0.01	Resistance	10kOhm	Tolerance	1%	Power	0.1W	603
+Rsense	Rohm	PMR100HZPFU6L00	1	0.17	Resistance	6mOhm	Tolerance	1%	Power	2W	2512
+Rt	Vishay-Dale	CRCW040223K2FKED	1	0.01	Resistance	23.2kOhm	Tolerance	1%	Power	0.063W	402
+Ruvb	Vishay-Dale	CRCW040229K4FKED	1	0.01	Resistance	29.4kOhm	Tolerance	1%	Power	0.063W	402
+Ruvt	Vishay-Dale	CRCW0402249KFKED	1	0.01	Resistance	249kOhm	Tolerance	1%	Power	0.063W	402
+U1	Texas Instruments	LM5176PWPR	1	3							PWP0028C_N
+Cbias	MuRata	GRM21BR71H104KA01L	1	0.04	Cap	100nF	ESR	1mOhm	Total Derated Cap	1.0E-7F	805
+Rmode	Vishay-Dale	CRCW060393K1FKEA	1	0.01	Resistance	93.1kOhm	Tolerance	1%	Power	0.1W	603
